@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cookie-da-sorte/static/css/main.47943f8c.css",
+    "main.js": "/cookie-da-sorte/static/js/main.536f7cd0.js",
+    "static/js/787.1c0007d8.chunk.js": "/cookie-da-sorte/static/js/787.1c0007d8.chunk.js",
+    "static/media/cookie.png": "/cookie-da-sorte/static/media/cookie.f397e7143185d7b7b590.png",
+    "static/media/Parisienne-Regular.ttf": "/cookie-da-sorte/static/media/Parisienne-Regular.b3cc89d14478b05776c0.ttf",
+    "index.html": "/cookie-da-sorte/index.html",
+    "main.47943f8c.css.map": "/cookie-da-sorte/static/css/main.47943f8c.css.map",
+    "main.536f7cd0.js.map": "/cookie-da-sorte/static/js/main.536f7cd0.js.map",
+    "787.1c0007d8.chunk.js.map": "/cookie-da-sorte/static/js/787.1c0007d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47943f8c.css",
+    "static/js/main.536f7cd0.js"
+  ]
+}
